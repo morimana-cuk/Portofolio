@@ -63,9 +63,8 @@ Politeknik Negeri Jember
 
 ## 📬 Contact
 📧 Email: rizalmaulananajib@email.com  
-🔗 LinkedIn: [linkedin.com/in/maharaja](www.linkedin.com/in/morimana)  
-🐙 GitHub: [github.com/yourusername](https://github.com/morimana-cuk)
+🔗 LinkedIn: [linkedin.com/in/morimana](www.linkedin.com/in/morimana)  
+🐙 GitHub: [github.com/morimana-cuk](https://github.com/morimana-cuk)
 
 ---
 
-> _“Clean logic, scalable system, maintainable code.”_
