@@ -63,7 +63,7 @@ Politeknik Negeri Jember
 
 ## 📬 Contact
 📧 Email: rizalmaulananajib@email.com  
-🔗 LinkedIn: [www.linkedin.com/in/morimana](www.linkedin.com/in/morimana)  
+🔗 LinkedIn: [https://www.linkedin.com/in/morimana/](https://www.linkedin.com/in/morimana/)  
 🐙 GitHub: [github.com/morimana-cuk](https://github.com/morimana-cuk)
 
 ---
