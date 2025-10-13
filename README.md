@@ -1,8 +1,11 @@
 # 💼 Mohammad Rizal Maulana Najib — Backend Developer Portfolio
 
 Hi there! 👋  
-I’m **Mohammad Rizal Maulana Najib**, a Backend Developer focusing on web systems, hospital applications, and IoT integrations.  
-I love building efficient, scalable, and maintainable systems using **Laravel** and **Python Flask**.
+I’m Fresh graduate with a Bachelor's degree in Informatics Engineering, specializing in Backend Development
+with proficiency in Laravel and CodeIgniter. Experienced in developing information systems and cloud-
+based applications. Skilled in using DBMS such as MySQL and PostgreSQL, with a solid understanding
+of servers, networking (Mikrotik), and digital marketing. Accustomed to working collaboratively in teams
+to develop applications from requirements analysis to deployment.
 
 ---
 
