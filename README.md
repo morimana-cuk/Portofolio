@@ -1,42 +1,48 @@
 # 💼 Mohammad Rizal Maulana Najib — Backend Developer Portfolio
 
 Hi there! 👋  
-I’m Fresh graduate with a Bachelor's degree in Informatics Engineering, specializing in Backend Development
-with proficiency in Laravel and CodeIgniter. Experienced in developing information systems and cloud-
-based applications. Skilled in using DBMS such as MySQL and PostgreSQL, with a solid understanding
-of servers, networking (Mikrotik), and digital marketing. Accustomed to working collaboratively in teams
-to develop applications from requirements analysis to deployment.
+I’m a fresh graduate with a Bachelor's degree in Informatics Engineering, specializing in **Backend Development** with proficiency in **Laravel** and **CodeIgniter**.  
+Experienced in developing information systems and cloud-based applications. Skilled in using DBMS such as **MySQL** and **PostgreSQL**, with a solid understanding of **servers**, **networking (Mikrotik)**, and **digital marketing**.  
+Accustomed to working collaboratively in teams to develop applications from requirements analysis to deployment.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Sterilization Management System
+### 🏥 SIMRSGM — Web App for Hospital Management (University of Jember)
 **Role:** Backend Developer  
-**Tech Stack:** Laravel, MySQL, DataTables, AJAX  
-- Developed and maintained internal modules for hospital sterilization and logistics.  
-- Implemented queue-based data processing and role-based access control.  
-- Improved data flow efficiency and reduced manual entry errors by 30%.  
-📷 *Screenshot:* ![Hospital System](./images/hospital-dashboard.png)
+**Tech Stack:** Laravel, PostgreSQL, MySQL, PHP  
+- Developed Lab Penunjang, CSSD, and Laundry modules, and fixed bugs in the Clinic module using Laravel-based architecture.  
+- Collaborated with multiple departments to ensure smooth data flow and improve system stability.  
+<!-- 📷 *Screenshot:* ![Hospital System](./images/hospital-dashboard.png) -->
 
 ---
 
-### 🐟 IoT-Based Water Quality Monitoring System
+### 🐟 Water Quality Determination System for Koi Fish (IoT + Decision Tree)
 **Role:** Backend Developer (Python Flask)  
-**Tech Stack:** Python, Flask, SQLite, Raspberry Pi, Fuzzy Logic  
-- Designed backend services for koi fish water quality monitoring.  
-- Integrated IoT sensors for pH, temperature, and turbidity data.  
-- Applied fuzzy logic to classify water quality (Good / Moderate / Poor).  
-📷 *Screenshot:* ![IoT System](./images/iot-system.png)
+**Tech Stack:** Python, Flask, MySQL, Decision Tree  
+- Developed a koi fish water quality assessment system using Python and Flask in collaboration with a team handling IoT devices and data analysis.  
+- Implemented the Decision Tree algorithm to classify water quality conditions (*Good / Moderate / Poor*).  
+- Integrated IoT sensor readings into a web-based system for real-time analysis and visualization.  
+- Conducted model testing and accuracy evaluation to ensure reliability.  
+<!-- 📷 *Screenshot:* ![IoT System](./images/iot-system.png) -->
 
 ---
 
-### 💰 Internal Budget Management Application
+### 💰 SIMANGGA — University Budget Management System (University of Jember)
 **Role:** Full Stack Developer  
-**Tech Stack:** Laravel, Bootstrap, MySQL  
-- Developed internal financial management tools with authentication, CRUD, and reporting modules.  
-- Improved internal financial tracking and reporting efficiency.  
-📷 *Screenshot:* ![Budget App](./images/budget-app.png)
+**Tech Stack:** Laravel, Bootstrap, MySQL, PostgreSQL  
+- Developed login and access control modules, and implemented system integration (bridging) with the university’s main website.  
+<!-- 📷 *Screenshot:* ![Budget App](./images/budget-app.png) -->
+
+---
+
+### 🌐 RapidRoad — AI-based Road Damage Reporting System
+**Role:** Backend Developer & Cloud Engineer  
+**Tech Stack:** Node.js, Hapi.js, Google Cloud Platform (GCP), MySQL  
+- Developed backend services using Node.js (Hapi.js framework) and handled deployment on Google Cloud.  
+- Built API pipelines for AI-powered road damage classification and reporting.  
+<!-- 📷 *Screenshot:* ![RapidRoad](./images/rapidroad.png) -->
 
 ---
 
@@ -47,7 +53,7 @@ to develop applications from requirements analysis to deployment.
 | **Languages** | PHP, Python, JavaScript |
 | **Frameworks** | Laravel, Flask, Hapi.js |
 | **Database** | MySQL, PostgreSQL |
-| **Tools** | Git, Postman, VSCode, Github |
+| **Tools** | Git, Postman, VSCode, GitHub |
 | **Concepts** | REST API, MVC, CRUD, Data Integration |
 
 ---
@@ -65,9 +71,10 @@ Politeknik Negeri Jember
 ---
 
 ## 📬 Contact
-📧 Email: rizalmaulananajib@email.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/morimana/](https://www.linkedin.com/in/morimana/)  
+📧 Email: rizalmaulananajib@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/morimana](https://linkedin.com/in/morimana)  
 🐙 GitHub: [github.com/morimana-cuk](https://github.com/morimana-cuk)
 
 ---
+
 
