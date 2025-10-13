@@ -57,7 +57,7 @@ Politeknik Negeri Jember
 ---
 
 ## 📄 Resume
-📥 [Download my full portfolio (PDF)](./resume/Portfolio_Maharaja_BackendDeveloper.pdf)
+📥 [Download my full portfolio (PDF)](./resume/cv-rijal.pdf)
 
 ---
 
