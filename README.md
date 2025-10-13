@@ -42,9 +42,9 @@ I love building efficient, scalable, and maintainable systems using **Laravel** 
 | Category | Skills |
 |-----------|--------|
 | **Languages** | PHP, Python, JavaScript |
-| **Frameworks** | Laravel, Flask |
-| **Database** | MySQL, SQLite |
-| **Tools** | Git, Postman, Docker (basic), VSCode |
+| **Frameworks** | Laravel, Flask, Hapi.js |
+| **Database** | MySQL, PostgreSQL |
+| **Tools** | Git, Postman, VSCode, Github |
 | **Concepts** | REST API, MVC, CRUD, Data Integration |
 
 ---
