@@ -39,12 +39,18 @@ Sistem akan mengklasifikasikan kondisi air menjadi **Baik**, **Sedang**, atau **
 ---
 
 ### 🧰 Tools Used
-Python • Flask • MySQL • Scikit-learn •  Git
+Python • Flask • MySQL • Scikit-learn • Git • Laravel • PHP
+
+---
+
+### 📚 Reference
+This project was developed as part of my undergraduate thesis at Politeknik Negeri Jember (2025).  
+📄 [Download Thesis (PDF)](../documents/Skripsi%20Rizal-%20Revisi%20Sidang%20sudah%20acc.pdf)
 
 ---
 
 ### 🖼️ Screenshots
--
+
 <!-- ![Cloud Architecture](../images/clouad_arsitektur.PNG) -->
 <!-- ![RapidRoad Dashboard](../images/rapidroad-dashboard.png)
 *Dashboard view showing AI-based damage classification results.*
@@ -55,7 +61,7 @@ Python • Flask • MySQL • Scikit-learn •  Git
 ---
 
 ### 🎥 Video
--
+
 <!-- ![explanation Project on youtube](../images/capstone_ppt.PNG)(https://youtu.be/GLpPmcg6FLo?si=elMusrpdzC1RUUqZ) -->
 <!-- [![Watch the demo on YouTube](../images/youtube-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 *Click the thumbnail or [watch it directly here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).* -->

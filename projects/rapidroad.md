@@ -39,7 +39,7 @@ It processes user-submitted reports and integrates with an AI service that class
 ---
 
 ### 🧰 Tools Used
-Node.js • Hapi.js • MySQL • GCP • Postman • Git
+Node.js • Hapi.js • MySQL • GCP • Postman • Git • Laravel • PHP 
 
 ---
 
