@@ -1,6 +1,6 @@
 # 🎓 SI MBKM — Web Application for MBKM Student Data Management
-You can view the full project source code here:  
-👉 [Maaf ini project internal tidak boleh di sebar]()
+<!-- You can view the full project source code here:  
+👉 [Maaf ini project internal tidak boleh di sebar]() -->
 
 
 **Year:** 2023  

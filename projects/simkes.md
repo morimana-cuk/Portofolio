@@ -1,6 +1,6 @@
 # 💊 SIMKES — Medicine Procurement Management System
-You can view the full project source code here:  
-👉 [Maaf ini project internal tidak boleh di sebar]()
+<!-- You can view the full project source code here:  
+👉 [Maaf ini project internal tidak boleh di sebar]() -->
 
 **Year:** 2024  
 **Role:** Web Developer Intern  

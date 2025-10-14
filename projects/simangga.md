@@ -1,6 +1,6 @@
 # 💰 SIMANGGA — University Budget Management System
-You can view the full project source code here:  
-👉 [Maaf ini project internal tidak boleh di sebar]()
+<!-- You can view the full project source code here:  
+👉 [Maaf ini project internal tidak boleh di sebar]() -->
 
 **Year:** 2025  
 **Role:** Full Stack Developer  
