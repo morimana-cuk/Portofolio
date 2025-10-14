@@ -1,6 +1,8 @@
 # 🐟 Water Quality Determination System for Koi Fish (IoT + Decision Tree)
 You can view the full project source code here:  
 👉 [https://github.com/morimana-cuk/flask_decision_tree_air_kolam_koi](https://github.com/morimana-cuk/flask_decision_tree_air_kolam_koi)
+👉 [https://github.com/morimana-cuk/web_koi](https://github.com/morimana-cuk/web_koi)
+
 
 **Year:** 2025  
 **Role:** Backend Developer  
