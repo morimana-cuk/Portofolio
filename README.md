@@ -7,18 +7,26 @@ Accustomed to working collaboratively in teams to develop applications from requ
 
 ---
 
+## 🎓 Education
+**D4 — Informatics Engineering**  
+Politeknik Negeri Jember  
+**GPA:** 3.86 / 4.00  
+
+---
+
 ## 🚀 Featured Projects
 
-### 🏥 SIMRSGM — Web App for Hospital Management (University of Jember)
+### 🏥 [SIMRSGM — Web App for Hospital Management (University of Jember)](./projects/simrsgm.md)
 **Role:** Backend Developer  
 **Tech Stack:** Laravel, PostgreSQL, MySQL, PHP  
 - Developed Lab Penunjang, CSSD, and Laundry modules, and fixed bugs in the Clinic module using Laravel-based architecture.  
 - Collaborated with multiple departments to ensure smooth data flow and improve system stability.  
+
 <!-- 📷 *Screenshot:* ![Hospital System](./images/hospital-dashboard.png) -->
 
 ---
 
-### 🐟 Water Quality Determination System for Koi Fish (IoT + Decision Tree)
+### 🐟 [Water Quality Determination System for Koi Fish (IoT + Decision Tree)](./projects/koi-water-quality.md)
 **Role:** Backend Developer (Python Flask)  
 **Tech Stack:** Python, Flask, MySQL, Decision Tree  
 - Developed a koi fish water quality assessment system using Python and Flask in collaboration with a team handling IoT devices and data analysis.  
@@ -29,7 +37,7 @@ Accustomed to working collaboratively in teams to develop applications from requ
 
 ---
 
-### 💰 SIMANGGA — University Budget Management System (University of Jember)
+### 💰 [SIMANGGA — University Budget Management System (University of Jember)](./projects/simangga.md)
 **Role:** Full Stack Developer  
 **Tech Stack:** Laravel, Bootstrap, MySQL, PostgreSQL  
 - Developed login and access control modules, and implemented system integration (bridging) with the university’s main website.  
@@ -37,12 +45,31 @@ Accustomed to working collaboratively in teams to develop applications from requ
 
 ---
 
-### 🌐 RapidRoad — AI-based Road Damage Reporting System
+### 🌐 [RapidRoad — AI-based Road Damage Reporting System](./projects/rapidroad.md)
 **Role:** Backend Developer & Cloud Engineer  
 **Tech Stack:** Node.js, Hapi.js, Google Cloud Platform (GCP), MySQL  
 - Developed backend services using Node.js (Hapi.js framework) and handled deployment on Google Cloud.  
 - Built API pipelines for AI-powered road damage classification and reporting.  
 <!-- 📷 *Screenshot:* ![RapidRoad](./images/rapidroad.png) -->
+
+---
+
+## 📂 All Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🏥 [SIMRSGM](./projects/simrsgm.md) | Web App manajemen Rumah Sakit Gigi & Mulut Universitas Jember | Laravel, MySQL |
+| 🐟 [Koi Water Quality System](./projects/koi-water-quality.md) | Sistem IoT penentuan kualitas air ikan koi dengan Decision Tree | Python, Flask, MySQL |
+| 🌐 [RapidRoad](./projects/rapidroad.md) | Sistem pelaporan kerusakan jalan berbasis AI dan GCP | Node.js (Hapi.js), MySQL |
+| 💰 [SIMANGGA](./projects/simangga.md) | Aplikasi manajemen anggaran universitas | Laravel, PostgreSQL |
+| 🏥 [SIMKES](./projects/simkes.md) | Sistem pengadaan obat Puskesmas & Dinkes Jember | CodeIgniter 4, MySQL |
+| 🎓 [SI MBKM](./projects/si-mbkm.md) | Sistem pencatatan mahasiswa MBKM Polije | Laravel, MySQL |
+| 🛍️ [Tijara Store](./projects/tijara-store.md) | Web & Mobile PoS untuk butik | Laravel, Bootstrap |
+| 🍜 [SI Gandrung](./projects/si-gandrung.md) | Desktop App untuk Kedai Mie Gandrung | Java, MySQL |
+
+---
+
+📄 **View full details:**  
+Each project link above opens its detailed README inside the `/projects/` folder.
 
 ---
 
@@ -55,13 +82,6 @@ Accustomed to working collaboratively in teams to develop applications from requ
 | **Database** | MySQL, PostgreSQL |
 | **Tools** | Git, Postman, VSCode, GitHub |
 | **Concepts** | REST API, MVC, CRUD, Data Integration |
-
----
-
-## 🎓 Education
-**D4 — Informatics Engineering**  
-Politeknik Negeri Jember  
-**GPA:** 3.86 / 4.00  
 
 ---
 
