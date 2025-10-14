@@ -1,4 +1,6 @@
 # 🐟 Water Quality Determination System for Koi Fish (IoT + Decision Tree)
+You can view the full project source code here:  
+👉 [https://github.com/morimana-cuk/flask_decision_tree_air_kolam_koi](https://github.com/morimana-cuk/flask_decision_tree_air_kolam_koi)
 
 **Year:** 2025  
 **Role:** Backend Developer  
@@ -36,3 +38,22 @@ Sistem akan mengklasifikasikan kondisi air menjadi **Baik**, **Sedang**, atau **
 
 ### 🧰 Tools Used
 Python • Flask • MySQL • Scikit-learn •  Git
+
+---
+
+### 🖼️ Screenshots
+-
+<!-- ![Cloud Architecture](../images/clouad_arsitektur.PNG) -->
+<!-- ![RapidRoad Dashboard](../images/rapidroad-dashboard.png)
+*Dashboard view showing AI-based damage classification results.*
+
+![API Test on Postman](../images/rapidroad-api.png)
+*API testing during development.* -->
+
+---
+
+### 🎥 Video
+-
+<!-- ![explanation Project on youtube](../images/capstone_ppt.PNG)(https://youtu.be/GLpPmcg6FLo?si=elMusrpdzC1RUUqZ) -->
+<!-- [![Watch the demo on YouTube](../images/youtube-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+*Click the thumbnail or [watch it directly here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).* -->
