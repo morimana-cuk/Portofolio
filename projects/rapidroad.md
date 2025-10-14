@@ -44,6 +44,7 @@ Node.js • Hapi.js • MySQL • GCP • Postman • Git • Laravel • PHP
 ---
 
 ### 🖼️ Screenshots
+- Cloud Architecture<br>
 ![Cloud Architecture](../images/clouad_arsitektur.PNG)
 <!-- ![RapidRoad Dashboard](../images/rapidroad-dashboard.png)
 *Dashboard view showing AI-based damage classification results.*
@@ -54,6 +55,7 @@ Node.js • Hapi.js • MySQL • GCP • Postman • Git • Laravel • PHP
 ---
 
 ### 🎥 Video
+- explanation Project on youtube<br>
 ![explanation Project on youtube](../images/capstone_ppt.PNG)(https://youtu.be/GLpPmcg6FLo?si=elMusrpdzC1RUUqZ)
 <!-- [![Watch the demo on YouTube](../images/youtube-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 *Click the thumbnail or [watch it directly here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).* -->
