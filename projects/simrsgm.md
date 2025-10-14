@@ -40,7 +40,7 @@ Sistem ini menangani manajemen data klinik, laboratorium, CSSD, dan laundry.
 ### 🧰 Tools Used
 Laravel • MySQL • PostgreSQL • AJAX • Git
 
---
+---
 
 ### 🖼️ Screenshots
 <!-- ![Cloud Architecture](../images/clouad_arsitektur.PNG) -->
