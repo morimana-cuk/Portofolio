@@ -4,7 +4,7 @@ You can view the full project source code here:
 
 **Year:** 2025  
 **Role:** Backend Developer  
-**Tech Stack:** Laravel, PHP, MySQL, PostgreSQL, AJAX  
+**Tech Stack:** Laravel, PHP, MySQL, PostgreSQL
 
 ---
 
@@ -43,6 +43,7 @@ Laravel • MySQL • PostgreSQL • AJAX • Git
 ---
 
 ### 🖼️ Screenshots
+-
 <!-- ![Cloud Architecture](../images/clouad_arsitektur.PNG) -->
 <!-- ![RapidRoad Dashboard](../images/rapidroad-dashboard.png)
 *Dashboard view showing AI-based damage classification results.*
@@ -53,6 +54,7 @@ Laravel • MySQL • PostgreSQL • AJAX • Git
 ---
 
 ### 🎥 Video
+-
 <!-- ![explanation Project on youtube](../images/capstone_ppt.PNG)(https://youtu.be/GLpPmcg6FLo?si=elMusrpdzC1RUUqZ) -->
 <!-- [![Watch the demo on YouTube](../images/youtube-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 *Click the thumbnail or [watch it directly here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).* -->
