@@ -41,12 +41,12 @@ CodeIgniter • MySQL • Bootstrap • jQuery • Git
 ---
 
 ### 🖼️ Screenshots
--![simkes1](../images/simkes1.png)
--![simkes2](../images/simkes2.png)
--![simkes3](../images/simkes3.png)
--![simkes4](../images/simkes4.png)
--![simkes5](../images/simkes5.png)
--![simkes6](../images/simkes6.png)
+![simkes1](../images/simkes1.png)
+![simkes2](../images/simkes2.png)
+![simkes3](../images/simkes3.png)
+![simkes4](../images/simkes4.png)
+![simkes5](../images/simkes5.png)
+![simkes6](../images/simkes6.png)
 
 <!-- ![Cloud Architecture](../images/clouad_arsitektur.PNG) -->
 <!-- ![RapidRoad Dashboard](../images/rapidroad-dashboard.png)

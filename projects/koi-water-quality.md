@@ -6,7 +6,7 @@ You can view the full project source code here:
 
 **Year:** 2025  
 **Role:** Backend Developer  
-**Tech Stack:** Python, Flask, MySQL, Decision Tree, IoT Sensors  
+**Tech Stack:** Python, Flask, MySQL, Decision Tree, IoT Sensors, Laravel, PHP  
 
 ---
 

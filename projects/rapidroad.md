@@ -5,7 +5,7 @@ You can view the full project source code here:
 
 **Year:** 2024  
 **Role:** Backend Developer & Cloud Engineer  
-**Tech Stack:** Node.js, Hapi.js, MySQL, Google Cloud Platform (GCP)  
+**Tech Stack:** Node.js, Hapi.js, MySQL, Google Cloud Platform (GCP), Laravel, PHP
 
 ---
 
