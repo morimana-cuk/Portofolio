@@ -18,7 +18,7 @@ Politeknik Negeri Jember
 
 ### 🏥 [SIMRSGM — Web App for Hospital Management (University of Jember)](./projects/simrsgm.md)
 **Role:** Backend Developer  
-**Tech Stack:** Laravel, PostgreSQL, MySQL, PHP  
+**Tech Stack:** Laravel, PostgreSQL, PHP  
 - Developed Lab Penunjang, CSSD, and Laundry modules, and fixed bugs in the Clinic module using Laravel-based architecture.  
 - Collaborated with multiple departments to ensure smooth data flow and improve system stability.  
 
