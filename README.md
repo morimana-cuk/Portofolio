@@ -28,7 +28,7 @@ Politeknik Negeri Jember
 
 ### 🐟 [Water Quality Determination System for Koi Fish (IoT + Decision Tree)](./projects/koi-water-quality.md)
 **Role:** Backend Developer (Python Flask)  
-**Tech Stack:** Python, Flask, MySQL, Decision Tree  
+**Tech Stack:** Python, Flask, MySQL, Decision Tree, IoT  
 - Developed a koi fish water quality assessment system using Python and Flask in collaboration with a team handling IoT devices and data analysis.  
 - Implemented the Decision Tree algorithm to classify water quality conditions (*Good / Moderate / Poor*).  
 - Integrated IoT sensor readings into a web-based system for real-time analysis and visualization.  
