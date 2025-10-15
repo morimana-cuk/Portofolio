@@ -78,7 +78,7 @@ Each project link above opens its detailed README inside the `/projects/` folder
 | Category | Skills |
 |-----------|--------|
 | **Languages** | PHP, Python, JavaScript |
-| **Frameworks** | Laravel, Flask, Hapi.js |
+| **Frameworks** | Laravel, CodeIgniter, Flask, Hapi.js |
 | **Database** | MySQL, PostgreSQL |
 | **Tools** | Git, Postman, VSCode, GitHub |
 | **Concepts** | REST API, MVC, CRUD, Data Integration |
